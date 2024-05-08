@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Muthu Balaji
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Bsc Maths
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me www.linkedin.com/in/muthu-balaji or use my mail ID muthubalaji080@gmail.com
+- 📫 reach me on www.linkedin.com/in/muthu-balaji or use my mail ID muthubalaji080@gmail.com
 - ⚡ Fun fact: Data always say some new insights if you are willing to listen those things 
 
 <!---
