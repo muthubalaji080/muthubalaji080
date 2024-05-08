@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muthubalaji080
+- 👋 Hi, I’m Muthu Balaji
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Bsc Maths
 - 💞️ I’m looking to collaborate on ...
